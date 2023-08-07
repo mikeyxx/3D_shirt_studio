@@ -1,8 +1,6 @@
-# React + Vite
+##Project Name
+3D Shirt Design application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##About this project
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3D Shirt Design application is a 3D Customization Tool that lets you create a Fashion Statement using your imagination to design your own style. The application is built with React, ThreeJS, and TailwindCSS.
